@@ -1,0 +1,12 @@
+C:\Users\Nevena\Documents\Ranorex\RanorexStudio Projects\MyTest\MyTest\bin\Debug\MyTest.rxtmg
+C:\Users\Nevena\Documents\Ranorex\RanorexStudio Projects\MyTest\MyTest\bin\Debug\MyTest.rxtst
+C:\Users\Nevena\Documents\Ranorex\RanorexStudio Projects\MyTest\MyTest\bin\Debug\MyTest.exe.config
+C:\Users\Nevena\Documents\Ranorex\RanorexStudio Projects\MyTest\MyTest\bin\Debug\MyTest.xml
+C:\Users\Nevena\Documents\Ranorex\RanorexStudio Projects\MyTest\MyTest\bin\Debug\MyTest.exe
+C:\Users\Nevena\Documents\Ranorex\RanorexStudio Projects\MyTest\MyTest\bin\Debug\MyTest.pdb
+C:\Users\Nevena\Documents\Ranorex\RanorexStudio Projects\MyTest\MyTest\bin\Debug\Ranorex.Core.Resolver.dll
+C:\Users\Nevena\Documents\Ranorex\RanorexStudio Projects\MyTest\MyTest\obj\x86\Debug\MyTest.csproj.AssemblyReference.cache
+C:\Users\Nevena\Documents\Ranorex\RanorexStudio Projects\MyTest\MyTest\obj\x86\Debug\MyTest.csproj.CoreCompileInputs.cache
+C:\Users\Nevena\Documents\Ranorex\RanorexStudio Projects\MyTest\MyTest\obj\x86\Debug\MyTest.csproj.CopyComplete
+C:\Users\Nevena\Documents\Ranorex\RanorexStudio Projects\MyTest\MyTest\obj\x86\Debug\MyTest.exe
+C:\Users\Nevena\Documents\Ranorex\RanorexStudio Projects\MyTest\MyTest\obj\x86\Debug\MyTest.pdb

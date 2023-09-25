@@ -1,0 +1,90 @@
+﻿<repository
+id="9329e861-d289-49eb-abb8-f58f3b5b041c"
+name="MyTestRepository">
+	<codegen
+	classname="MyTestRepository"
+	namespace="MyTest">
+	</codegen>
+	<rootfolder
+	capname="unknown"
+	id="b8f58dbd-9699-404c-93b5-b0dac9706489"
+	isrooted="True"
+	name="Root"
+	searchtimeout="0ms"
+	usecache="True">
+		<appfolder
+		addcaps="form,uiautomation,nativewindow,windowsapp"
+		capname="windowsapp"
+		id="5f888659-7baa-47fe-8faf-b104d6742bd1"
+		isrooted="True"
+		name="Calculator"
+		refpath="/winapp[@packagename='Microsoft.WindowsCalculator']"
+		searchtimeout="30000ms"
+		usecache="True">
+			<item
+			addcaps="button,uiautomation,uiautomationinvoke,uiautomationscrollitem"
+			capname="button"
+			id="a22fc265-a930-45d2-9a12-bf29b8df85bd"
+			name="Num4Button"
+			refimgid="4b4fad86-0ff5-405c-bbf7-d8def1709f92"
+			refpath="/winapp[@packagename='Microsoft.WindowsCalculator']/element/container/container[@automationid='NumberPad']/button[@automationid='num4Button']"
+			robustPath="/winapp[@packagename='Microsoft.WindowsCalculator']//button[@automationid='num4Button']"
+			searchtimeout="30000ms">
+				/winapp[@packagename='Microsoft.WindowsCalculator']//container[@automationid='NumberPad']/button[@automationid='num4Button']
+			</item>
+			<item
+			addcaps="text,uiautomation,uiautomationscrollitem"
+			capname="text"
+			id="1fa9e2a8-b629-454d-b4f5-06c2eefa6146"
+			name="SomeText"
+			refimgid="3efa9978-4f6d-4c12-991b-6639c0733ab7"
+			refpath="/winapp[@packagename='Microsoft.WindowsCalculator']/element/container/container[@automationid='StandardOperators']/button[@automationid='minusButton']/text[@name='']"
+			robustPath="/winapp[@packagename='Microsoft.WindowsCalculator']//text[@name='']"
+			searchtimeout="30000ms">
+				/winapp[@packagename='Microsoft.WindowsCalculator']//container[@automationid='StandardOperators']/button[@automationid='minusButton']/text[@name='']
+			</item>
+			<item
+			addcaps="text,uiautomation,uiautomationscrollitem"
+			capname="text"
+			id="826e97f1-e41f-4352-a098-b83c1ac77ef5"
+			name="Text8"
+			refimgid="ee79614e-17b8-4f25-befb-ca0ccc37933b"
+			refpath="/winapp[@packagename='Microsoft.WindowsCalculator']/element/container/container[@automationid='NumberPad']/button[@automationid='num8Button']/text[@name='8']"
+			robustPath="/winapp[@packagename='Microsoft.WindowsCalculator']//text[@name='8']"
+			searchtimeout="30000ms">
+				/winapp[@packagename='Microsoft.WindowsCalculator']//container[@automationid='NumberPad']/button[@automationid='num8Button']/text[@name='8']
+			</item>
+			<item
+			addcaps="button,uiautomation,uiautomationinvoke,uiautomationscrollitem"
+			capname="button"
+			id="db7ccb4c-ddb6-40a4-a67e-20c22d78b8d8"
+			name="EqualButton"
+			refimgid="d748c512-deb7-49ee-89bb-f1ea4a970878"
+			refpath="/winapp[@packagename='Microsoft.WindowsCalculator']/element/container/container[@automationid='StandardOperators']/button[@automationid='equalButton']"
+			robustPath="/winapp[@packagename='Microsoft.WindowsCalculator']//button[@automationid='equalButton']"
+			searchtimeout="30000ms">
+				/winapp[@packagename='Microsoft.WindowsCalculator']//container[@automationid='StandardOperators']/button[@automationid='equalButton']
+			</item>
+			<basepath>
+				/winapp[@packagename='Microsoft.WindowsCalculator']
+			</basepath>
+			<icon>
+				iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAH9SURBVDhPdZDJTpRBFIV5BSZfQxONJkQURWlw
+iC/hhM3U89//PE9ND6CIvolxwUIXGodESWvEaDTGtXECFMTjvS3ViSlZVHIW9X2nTvX0KG3wOeSu
+oLZ4G8nCLcStZUTNmwgbSwjqS/Dnb8CrXYebLsJJFnDAvNthOkeElMCEwL0gO27B2j1m1JQFcXMZ
+dtTAhY+/cf7DDs6++4XxN9sYe7WF0fYPjDzbwNHH65gp6dCDhizgZt1Pce79DibebiOztoVTL37i
+xPNNDD9Zx9CDbzh87wuyRQ2qPy8L+MmamyLzmsCXBK5u4tjTDQw9/I4j97/i4Mpn7L/zCZN5FYpb
+kwW81aatGtlVr4YqyRQnQcWOUbZilMwIRSOEYico05EEDPMHPVpd6xzeKXKVGkVmuERCSWBGLRhh
+s3uRd4pccdJuLtJLCkYkC4ywQa317kXeKTI3ipynGTk9kAWaX6ft/28tUGvvmRp6J1LMaQFmVV8W
+VOnj9mrN6SHBCfrGY8xUPUwrrizgRv4gAfFOkec0H32ZEP1jPqYIzlYcWVCyEhT/aQ26mVv7T3sY
+GHWQLduYLNmygHfyBwmId4o8RY0DJy0MjugEW7haNGVBnnbyBwlomlpFvkatg8dV7BtWcKVg4nLe
+kAW8c1b1Os8VOxn822h1wUs5HRdz2q6gjT9SQp+y3+nSYwAAAABJRU5ErkJggg==
+			</icon>
+		</appfolder>
+		<basepath>
+		</basepath>
+	</rootfolder>
+	<variables>
+	</variables>
+</repository>

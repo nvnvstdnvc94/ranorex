@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Success"
+		duration="12.63s"
+		durationms="12628"
+		type="root"
+		rid="64e2e96fb8dceb2"
+		totalerrorcount="0"
+		totalwarningcount="0"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="Nevena"
+		rxversion="10.7.4.0"
+		host="DESKTOP-5P8VG30"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="en-US"
+		dtnlanguage="en-US"
+		screenresolution="1920x1080"
+		timestamp="9/25/2023 7:08:03 AM"
+		timestampiso="2023-09-25T05:08:03"
+		endtime="9/25/2023 7:08:16 AM"
+		timeoutfactor="1"
+		runid=""
+		sutversion=""
+		module="Recording1">
+		<detail>
+			Recording1
+		</detail>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:07.178"
+			timeRelativeToTestModuleStartTime="00:07.178"
+			timeWallClock="07:08:10"
+			time="00:07.178"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Calculator.Num4Button' at 63;31.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/winapp[@packagename='Microsoft.WindowsCalculator']//container[@automationid='NumberPad']/button[@automationid='num4Button']"
+				itempath=".//container[@automationid='NumberPad']/button[@automationid='num4Button']"
+				fullname="MyTestRepository.Calculator.Num4Button"
+				id="a22fc265a93045d29a12bf29b8df85bd"
+				timeout="60000"
+				codefile="C:\Users\Nevena\Documents\Ranorex\RanorexStudio Projects\MyTest\MyTest\Recording1.cs"
+				codeline="82"
+				itemindex="0"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:09.127"
+			timeRelativeToTestModuleStartTime="00:09.127"
+			timeWallClock="07:08:12"
+			time="00:09.127"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Calculator.SomeText' at 14;3.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/winapp[@packagename='Microsoft.WindowsCalculator']//container[@automationid='StandardOperators']/button[@automationid='minusButton']/text[@name='']"
+				itempath=".//container[@automationid='StandardOperators']/button[@automationid='minusButton']/text[@name='']"
+				fullname="MyTestRepository.Calculator.SomeText"
+				id="1fa9e2a8b629454db4f506c2eefa6146"
+				timeout="60000"
+				codefile="C:\Users\Nevena\Documents\Ranorex\RanorexStudio Projects\MyTest\MyTest\Recording1.cs"
+				codeline="86"
+				itemindex="1"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:10.226"
+			timeRelativeToTestModuleStartTime="00:10.226"
+			timeWallClock="07:08:13"
+			time="00:10.226"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Calculator.Text8' at 11;19.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/winapp[@packagename='Microsoft.WindowsCalculator']//container[@automationid='NumberPad']/button[@automationid='num8Button']/text[@name='8']"
+				itempath=".//container[@automationid='NumberPad']/button[@automationid='num8Button']/text[@name='8']"
+				fullname="MyTestRepository.Calculator.Text8"
+				id="826e97f1e41f4352a098b83c1ac77ef5"
+				timeout="60000"
+				codefile="C:\Users\Nevena\Documents\Ranorex\RanorexStudio Projects\MyTest\MyTest\Recording1.cs"
+				codeline="90"
+				itemindex="2"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:11.727"
+			timeRelativeToTestModuleStartTime="00:11.727"
+			timeWallClock="07:08:15"
+			time="00:11.727"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Calculator.EqualButton' at 83;30.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/winapp[@packagename='Microsoft.WindowsCalculator']//container[@automationid='StandardOperators']/button[@automationid='equalButton']"
+				itempath=".//container[@automationid='StandardOperators']/button[@automationid='equalButton']"
+				fullname="MyTestRepository.Calculator.EqualButton"
+				id="db7ccb4cddb640a4a67e20c22d78b8d8"
+				timeout="60000"
+				codefile="C:\Users\Nevena\Documents\Ranorex\RanorexStudio Projects\MyTest\MyTest\Recording1.cs"
+				codeline="94"
+				itemindex="3"
+				loglvl="Info">
+			</metainfo>
+		</item>
+	</activity>
+</report>
