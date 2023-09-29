@@ -8,6 +8,7 @@ pipeline {
                     dir('C:\\Users\\Nevena\\Documents\\Ranorex\\RanorexStudio Projects\\MyTest') {
 
                         // Povucite najnovije promene sa udaljenog repozitorijuma
+                        bat 'git clean -f -d -x'
                         bat 'git pull'
                     }
                 }
